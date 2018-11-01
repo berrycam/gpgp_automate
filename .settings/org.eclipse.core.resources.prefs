@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//bin/runcase.py=utf-8
+encoding//lib/common.py=utf-8
+encoding//lib/createDriver.py=utf-8
+encoding//pages/page_login.py=utf-8
+encoding//testcase/test_Login.py=utf-8
